@@ -1398,7 +1398,7 @@
 1397,"Poverty: Below, Female 55 to 64",poverty_belowlevel_f_55to64,Population,Poverty,B17001_028E,B17001
 1398,"Poverty: Below, Female 65 to 74",poverty_belowlevel_f_65to74,Population,Poverty,B17001_029E,B17001
 1399,"Poverty: Below, Female 75 and Over",poverty_belowlevel_f_75andover,Population,Poverty,B17001_030E,B17001
-1400,Poverty: At or Above Poverty Level,poverty_atorabovelevel,Population,Poverty,B17001_031,B17001
+1400,Poverty: At or Above Poverty Level,poverty_atorabovelevel,Population,Poverty,B17001_031E,B17001
 1401,Poverty: At or Above Poverty Level Male,poverty_atorabovelevel_m,Population,Poverty,B17001_032E,B17001
 1402,"Poverty: At or Above, Male Under 5",poverty_atorabovelevel_m_u5,Population,Poverty,B17001_033E,B17001
 1403,"Poverty: At or Above, Male 5",poverty_atorabovelevel_m_5,Population,Poverty,B17001_034E,B17001
@@ -1442,18 +1442,18 @@
 1441,Poverty: Poverty Status by Sex by Native Hawaiian and Other Pacific Islander Alone,poverty_total_bysexbyage_nativehawaiianotherpacificislanderalone_series,Population,Poverty,B17001E_001E,B17001E
 1442,Poverty: Income in the Past 12 Months Below Poverty Level Native Hawaiian and Other Pacific Islander Alone,poverty_belowlevel_nativehawaiianotherpacificislanderalone,Population,Poverty,B17001E_002E,B17001E
 1443,Poverty: Income in the Past 12 Months At or Above Poverty Level Native Hawaiian and Other Pacific Islander Alone,poverty_atorabovelevel_nativehawaiianotherpacificislanderalone,Population,Poverty,B17001E_031E,B17001E
-1444,Poverty: Poverty Status by Sex by Some Other Race Alone,poverty_total_bysexbyage_someotherracealone_series,Population,Poverty,B17001E_001F,B17001F
-1445,Poverty: Income in the Past 12 Months Below Poverty Level Some Other Race Alone,poverty_belowlevel_someotherracealone,Population,Poverty,B17001E_002F,B17001F
-1446,Poverty: Income in the Past 12 Months At or Above Poverty Level Some Other Race Alone,poverty_atorabovelevel_someotherracealone,Population,Poverty,B17001E_031F,B17001F
-1447,Poverty: Poverty Status by Sex by Two or More Races,poverty_total_bysexbyage_twoormoreraces_series,Population,Poverty,B17001E_001G,B17001G
-1448,Poverty: Income in the Past 12 Months Below Poverty Level Two or More Races,poverty_belowlevel_twoormoreraces,Population,Poverty,B17001E_002G,B17001G
-1449,Poverty: Income in the Past 12 Months At or Above Poverty Level Two or More Races,poverty_atorabovelevel_twoormoreraces,Population,Poverty,B17001E_031G,B17001G
-1450,"Poverty: Poverty Status by Sex by White Alone, Not Hispanic or Latino",poverty_total_bysexbyage_whitealonenothispanicorlatino_series,Population,Poverty,B17001E_001H,B17001F
-1451,"Poverty: Income in the Past 12 Months Below Poverty Level White Alone, Not Hispanic or Latino",poverty_belowlevel_whitealonenothispanicorlatino,Population,Poverty,B17001E_002H,B17001F
-1452,"Poverty: Income in the Past 12 Months At or Above Poverty Level White Alone, Not Hispanic or Latino",poverty_atorabovelevel_whitealonenothispanicorlatino,Population,Poverty,B17001E_031H,B17001F
-1453,Poverty: Poverty Status by Sex by Hispanic or Latino,poverty_total_bysexbyage_hispanicorlatino_series,Population,Poverty,B17001E_001I,B17001I
-1454,Poverty: Income in the Past 12 Months Below Poverty Level Hispanic or Latino,poverty_belowlevel_hispanicorlatino,Population,Poverty,B17001E_002I,B17001I
-1455,Poverty: Income in the Past 12 Months At or Above Poverty Level Hispanic or Latino,poverty_atorabovelevel_hispanicorlatino,Population,Poverty,B17001E_031I,B17001I
+1444,Poverty: Poverty Status by Sex by Some Other Race Alone,poverty_total_bysexbyage_someotherracealone_series,Population,Poverty,B17001F_001E,B17001F
+1445,Poverty: Income in the Past 12 Months Below Poverty Level Some Other Race Alone,poverty_belowlevel_someotherracealone,Population,Poverty,B17001F_002E,B17001F
+1446,Poverty: Income in the Past 12 Months At or Above Poverty Level Some Other Race Alone,poverty_atorabovelevel_someotherracealone,Population,Poverty,B17001F_031E,B17001F
+1447,Poverty: Poverty Status by Sex by Two or More Races,poverty_total_bysexbyage_twoormoreraces_series,Population,Poverty,B17001G_001E,B17001G
+1448,Poverty: Income in the Past 12 Months Below Poverty Level Two or More Races,poverty_belowlevel_twoormoreraces,Population,Poverty,B17001G_002E,B17001G
+1449,Poverty: Income in the Past 12 Months At or Above Poverty Level Two or More Races,poverty_atorabovelevel_twoormoreraces,Population,Poverty,B17001G_031E,B17001G
+1450,"Poverty: Poverty Status by Sex by White Alone, Not Hispanic or Latino",poverty_total_bysexbyage_whitealonenothispanicorlatino_series,Population,Poverty,B17001H_001E,B17001F
+1451,"Poverty: Income in the Past 12 Months Below Poverty Level White Alone, Not Hispanic or Latino",poverty_belowlevel_whitealonenothispanicorlatino,Population,Poverty,B17001H_002E,B17001F
+1452,"Poverty: Income in the Past 12 Months At or Above Poverty Level White Alone, Not Hispanic or Latino",poverty_atorabovelevel_whitealonenothispanicorlatino,Population,Poverty,B17001H_031E,B17001F
+1453,Poverty: Poverty Status by Sex by Hispanic or Latino,poverty_total_bysexbyage_hispanicorlatino_series,Population,Poverty,B17001I_001E,B17001I
+1454,Poverty: Income in the Past 12 Months Below Poverty Level Hispanic or Latino,poverty_belowlevel_hispanicorlatino,Population,Poverty,B17001I_002E,B17001I
+1455,Poverty: Income in the Past 12 Months At or Above Poverty Level Hispanic or Latino,poverty_atorabovelevel_hispanicorlatino,Population,Poverty,B17001I_031E,B17001I
 1456,"Poverty: Extremes of Poverty in the Past 12 Months From Place of Birth by Poverty Status, Total Series",poverty_levels_total_series,Population,Poverty,B06012_001E,B06012
 1457,Poverty: Below 100 Percent of the Poverty Level,poverty_levels_below100percentofpovertylevel,Population,Poverty,B06012_002E,B06012
 1458,Poverty: 100 to 149 Percent of the Poverty Level,poverty_levels_100to149percentofpovertylevel,Population,Poverty,B06012_003E,B06012
