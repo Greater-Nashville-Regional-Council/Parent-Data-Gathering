@@ -1691,3 +1691,14 @@
 1690,"Earnings in the Past 12 Months: Female $65,000 to $74,999 Other Hispanic or Latino",earn_f_other_65000to74999_hispanicorlatino,Employment,Earnings,PCT073I093
 1691,"Earnings in the Past 12 Months: Female $75,000 to $99,999 Other Hispanic or Latino",earn_f_other_75000to99999_hispanicorlatino,Employment,Earnings,PCT073I094
 1692,"Earnings in the Past 12 Months: Female $100,000 or more Other Hispanic or Latino",earn_f_other_100000ormore_hispanicorlatino,Employment,Earnings,PCT073I095
+1693,Race Ethnicity: Total White Alone,raceeth_white_alone,Population,Race Ethnicity,P145A001
+1694,Race Ethnicity: Total Black or African American Alone,raceeth_blackafricanamerican_alone,Population,Race Ethnicity,P145B001
+1695,Race Ethnicity: Total American Indian and Alaska Native Alone,raceeth_americanindianalaskanative_alone,Population,Race Ethnicity,P145C001
+1696,Race Ethnicity: Total Asian Alone,raceeth_asian_alone,Population,Race Ethnicity,P145D001
+1697,Race Ethnicity: Total Native Hawaiian and Other Pacific Islander Alone,raceeth_nativehawaiianotherpacificislander_alone,Population,Race Ethnicity,P145E001
+1698,Race Ethnicity: Some Other Race Alone,raceeth_someotherrace_alone,Population,Race Ethnicity,P145F001
+1699,Race Ethnicity: Two or More Races,raceeth_twoormoreraces_alone,Population,Race Ethnicity,P145G001
+1700,Race Ethnicity: Hispanic or Latino,raceeth_hispanicorlatino,Population,Race Ethnicity,P145H001
+1701,"Race Ethnicity: White Alone, Not Hispanic or Latino",raceeth_whitealone_nothispanicorlatino,Population,Race Ethnicity,P145I001
+1702,Median Selected Monthly Owner Costs With a Mortgage,housingcost_medcosts_ownerocc_mortgage,Housing,Housing Cost,H091001
+1703,Median Selected Monthly Owner Costs Without a Mortgage,housingcost_medcosts_ownerocc_womortgage,Housing,Housing Cost,H091002

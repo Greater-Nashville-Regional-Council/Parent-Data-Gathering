@@ -2367,3 +2367,6 @@
 2366,"Earnings in the Past 12 Months: Female $65,000 to $74,999 Other Hispanic or Latino",earn_f_other_65000to74999_hispanicorlatino,Employment,Earnings,B20005I_093E,
 2367,"Earnings in the Past 12 Months: Female $75,000 to $99,999 Other Hispanic or Latino",earn_f_other_75000to99999_hispanicorlatino,Employment,Earnings,B20005I_094E,
 2368,"Earnings in the Past 12 Months: Female $100,000 or more Other Hispanic or Latino",earn_f_other_100000ormore_hispanicorlatino,Employment,Earnings,B20005I_095E,
+2369,Median Selected Monthly Owner Costs,housingcost_medcosts_ownerocc,Housing,Housing Cost,B25088_001E,
+2370,Median Selected Monthly Owner Costs With a Mortgage,housingcost_medcosts_ownerocc_mortgage,Housing,Housing Cost,B25088_002E,
+2371,Median Selected Monthly Owner Costs Without a Mortgage,housingcost_medcosts_ownerocc_womortgage,Housing,Housing Cost,B25088_003E,

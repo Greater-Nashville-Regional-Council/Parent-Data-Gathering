@@ -1,0 +1,7 @@
+﻿ID,Data Point,Column Name,Category,Sub Category,ACS Variable,ACS Table
+1,Total Geographic Mobility in the Past Year by Age Series,geo_total_series,Geographic Mobility,Moved,B07001_001E,B07001
+2,Geographic Mobility Total Same House One Year Ago,geo_samehouse_total,Geographic Mobility,Moved,B07001_017E,B07001
+3,Geographic Mobility Total Moved Within Same County,geo_movedsamecounty_total,Geographic Mobility,Moved,B07001_033E,B07001
+4,Geographic Mobility Moved from Different County Within Same State,geo_moveddifferentcountysamestate_total,Geographic Mobility,Moved,B07001_049E,B07001
+5,Geographic Mobility Moved From Different State,geo_moveddifferentstate_total,Geographic Mobility,Moved,B07001_065E,B07001
+6,Geographic Mobility Moved from Abroad,geo_movedabroad_total,Geographic Mobility,Moved,B07001_081E,B07001
