@@ -29,10 +29,10 @@ As this process is developed as an outline for all data pulls and formatting, ex
 
 ## File Structure  
 
-####**Data Guides**  
+#### **Data Guides**  
 Contains: Various lists of variables, column names, and descriptions that are imported and run through APIs to call the listed data   
 
-####**Notebooks**  
+#### **Notebooks**  
 Contains: The following folders  
 
 *API Pulls*: This folder contains notebooks for each respective data series and year. Accepting the ACS 1YR estimates, each has its own data guide. The 1YRs are not large amounts of data and currently the variables are all the same year over year, if more data is added from these estimates they will be split as well.  
@@ -54,10 +54,10 @@ Contains: The following folders
 
 *Calculations*: This folder contains notebooks transforming the raw data into frequently requested metrics. Note that the subject tables, ACS 1YRs, and TIGER files are currently transformed in the "pull" documents because of their brevity. The download formatting documents bring the data to this point as well.  
 
-####**Data**  
+#### **Data**  
 Contains: The data that is pulled and ready to be run through calculations    
 
-####**Outputs**  
+#### **Outputs**  
 Contains: Formatted data that is ready to be pulled into other projects/repositories for filtering and analysis.
 
 *The "data" and "outputs" folders can be empty if storage space is needed, and then duplicated with the notebook files at anytime.*
