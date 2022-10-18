@@ -9,7 +9,7 @@
 + Data Bank   
 
 ## Overview  
-This repository outlines the process for gathering frequently requested data through the most efficient methods we can, and building on this library over time. In the APIs folder there is code for pulling data from various public APIs and formatting it to be joined as a file for one year. There is a notebook for each data series (and year, if needed) to ensure that there is no variable confusion, for example, the 2016-2020 ACS 5 Year Estimates. This information is saved and ready to be filtered for various comprehensive plans and data requests.  
+This repository outlines the process for gathering frequently requested data through the most efficient methods we can, and building on this library over time. In the APIs folder there is code for pulling data from various public APIs and formatting it uniformly so that data can be joined for various analyses. There is a notebook for each data series (and year, if needed) to ensure that there is no variable confusion. Additionally, data that must be downloaded from the internet or shared by staff is stored and formatted uniformly here. This information is saved and ready to be filtered for various comprehensive plans and data requests.  
 
 ## APIs  
 + Census Bureau  
@@ -72,5 +72,10 @@ The following data is collected (**Data Bank**):
 + 2017ACS1YR, 2018ACS1YR, 2019ACS1YR, 2021ACS1YR csv files containing the geographic mobility in the past year dataset for each geography collected and calculated  
 + HIST_PROJECT_PopulationSUFFIX csv containing historical and projected population data from 1800 to 2045 with each column tagged with the year  
 + HIST_PROJECT_PopulationTIDY csv containing historical and projected population data tidy data from 1800 to 2045 formatted with real and percent change between years  
-+ 2000SF1 csv
-+ 2000SF3
++ 2000SF3 csv: 1,703 raw variables --> 535 data points  
++ 2000SF1 csv: 88 raw variables --> 116 data points  
++ 2010SF1 csv: 79 raw variables --> 116 data points
++ 2010 ACS5YR: 1,694 raw variables --> 565 data points  
++ 2020 PL: 25 raw variables --> 62 data points
++ 2020 ACS5YR: 2,371 raw variables --> 617 data points  
++ HUDResidentialPermits_2021: residential permit data for single and multifamily for all counties, unincorporated counties, and places
