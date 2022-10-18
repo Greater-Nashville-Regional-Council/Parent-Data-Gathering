@@ -32,7 +32,7 @@ There are two folders initializing data collection.
 **Data Downloads**: data downloaded directly from the internet from sources that do not offer APIs, directly pulled from GNRC's Woods and Poole projections, or provided by other GNRC staff
 **Data Guides**: various lists of variables, column names, and descriptions that are imported and run through APIs to call the listed data  
 
-The **Notebooks** folder containing the following folders.
+The **Notebooks** folder containing the following folders.  
     1.  *API Pulls*: This folder contains notebooks for each respective data series and year. Accepting the ACS 1YR estimates, each has its own data guide. The 1YRs are not large amounts of data and currently the variables are all the same year over year, if more data is added from these estimates they will be split as well.  
         + ACS 2010 5YR  
         + ACS 2020 5YR  
