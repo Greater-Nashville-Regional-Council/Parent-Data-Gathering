@@ -33,19 +33,21 @@ There are two folders initializing data collection.
 **Data Guides**: various lists of variables, column names, and descriptions that are imported and run through APIs to call the listed data  
 
 The **Notebooks** folder containing the following folders.  
+
+
     1.  *API Pulls*: This folder contains notebooks for each respective data series and year. Accepting the ACS 1YR estimates, each has its own data guide. The 1YRs are not large amounts of data and currently the variables are all the same year over year, if more data is added from these estimates they will be split as well.  
-        + ACS 2010 5YR  
-        + ACS 2020 5YR  
-        + ACS 2017 1YR  
-        + ACS 2018 1YR  
-        + ACS 2019 1YR  
-        + ACS 2021 1YR  
-        + Decennial 2020 PL  
-        + Decennial 2000 SF1  
-        + Decennial 2010 SF1  
-        + Decennial 2000 SF3  
-        + Subject Tables 2010, 2020 5YR  
-        + TIGER Files 2000, 2010, 2020  
+..* ACS 2010 5YR  
+..* ACS 2020 5YR  
+..* ACS 2017 1YR  
+..* ACS 2018 1YR  
+..* ACS 2019 1YR  
+..* ACS 2021 1YR  
+..* Decennial 2020 PL  
+..* Decennial 2000 SF1  
+..* Decennial 2010 SF1  
+..* Decennial 2000 SF3  
+..* Subject Tables 2010, 2020 5YR  
+..* TIGER Files 2000, 2010, 2020  
 
     2. *Download Formatting*: This folder contains notebooks for the data downloaded from the web or provided by GNRC staff.
         + Historical and Projected Population  
