@@ -28,35 +28,41 @@ This repository outlines the process for gathering frequently requested data thr
 As this process is developed as an outline for all data pulls and formatting, exports from API calls and download formatting are standardized and stored to be pulled into other projects and filtered appropriately. Frequently used formatting/calculations from raw data are performed for all geographies in the GNRC region and many adjacent geographies simultaneously. The raw data is catalogued, but dropped at this point. For every data source and year, requested data points are accumulated here over time. All files are available to be catalogued, or deleted and reproduced using the same process when needed for other projects for storage efficiency.
 
 ## File Structure  
-There are two folders initializing data collection.
-**Data Downloads**: data downloaded directly from the internet from sources that do not offer APIs, directly pulled from GNRC's Woods and Poole projections, or provided by other GNRC staff
-**Data Guides**: various lists of variables, column names, and descriptions that are imported and run through APIs to call the listed data  
 
-The **Notebooks** folder containing the following folders.  
+####**Data Guides**  
+Contains: Various lists of variables, column names, and descriptions that are imported and run through APIs to call the listed data   
 
+####**Notebooks**  
+Contains: The following folders  
 
-    1.  *API Pulls*: This folder contains notebooks for each respective data series and year. Accepting the ACS 1YR estimates, each has its own data guide. The 1YRs are not large amounts of data and currently the variables are all the same year over year, if more data is added from these estimates they will be split as well.  
-..* ACS 2010 5YR  
-..* ACS 2020 5YR  
-..* ACS 2017 1YR  
-..* ACS 2018 1YR  
-..* ACS 2019 1YR  
-..* ACS 2021 1YR  
-..* Decennial 2020 PL  
-..* Decennial 2000 SF1  
-..* Decennial 2010 SF1  
-..* Decennial 2000 SF3  
-..* Subject Tables 2010, 2020 5YR  
-..* TIGER Files 2000, 2010, 2020  
+*API Pulls*: This folder contains notebooks for each respective data series and year. Accepting the ACS 1YR estimates, each has its own data guide. The 1YRs are not large amounts of data and currently the variables are all the same year over year, if more data is added from these estimates they will be split as well.  
++ ACS 2010 5YR  
++ ACS 2020 5YR  
++ ACS 2017 1YR  
++ ACS 2018 1YR  
++ ACS 2019 1YR  
++ ACS 2021 1YR  
++ Decennial 2020 PL  
++ Decennial 2000 SF1  
++ Decennial 2010 SF1  
++ Decennial 2000 SF3  
++ Subject Tables 2010, 2020 5YR  
++ TIGER Files 2000, 2010, 2020  
 
-    2. *Download Formatting*: This folder contains notebooks for the data downloaded from the web or provided by GNRC staff.
-        + Historical and Projected Population  
+*Download Formatting*: This folder contains notebooks for the data downloaded from the web or provided by GNRC staff  
++ Historical and Projected Population  
 
-    3. *Calculations*: This folder contains notebooks transforming the raw data into frequently requested metrics. Note that the subject tables, ACS 1YRs, and TIGER files are currently transformed in the "pull" documents because of their brevity. The download formatting documents bring the data to this point as well.  
+*Calculations*: This folder contains notebooks transforming the raw data into frequently requested metrics. Note that the subject tables, ACS 1YRs, and TIGER files are currently transformed in the "pull" documents because of their brevity. The download formatting documents bring the data to this point as well.  
 
-**Data**: This folder stores the data that is pulled and ready to be run through calculations.  
+####**Data**  
+Contains: The data that is pulled and ready to be run through calculations    
 
-**Outputs**: This contains formatted data that is ready to be pulled into other projects/repositories for filtering and analysis. *The "data" and "outputs" folders can be empty if storage space is needed, and then duplicated with the notebook files at anytime.* The following data is collected (**Data Bank**):  
+####**Outputs**  
+Contains: Formatted data that is ready to be pulled into other projects/repositories for filtering and analysis.
+
+*The "data" and "outputs" folders can be empty if storage space is needed, and then duplicated with the notebook files at anytime.*
+
+The following data is collected (**Data Bank**):  
 
 
 ## Data Bank
