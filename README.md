@@ -66,11 +66,11 @@ The following data is collected (**Data Bank**):
 
 
 ## Data Bank
-    + TIGERS2000, TIGERS2010, and TIGERS2020 shapefiles containing the geometry and geoid for each geography collected   
-    + TIGERS2000, TIGERS2010, and TIGERS2020 csv files containing square miles and square acres of land area for each geography collected and calculated  
-    + 2010Subject, 2020Subject csv files containing the median travel time to work for each geography collected  
-    + 2017ACS1YR, 2018ACS1YR, 2019ACS1YR, 2021ACS1YR csv files containing the geographic mobility in the past year dataset for each geography collected and calculated  
-    + HIST_PROJECT_PopulationSUFFIX csv containing historical and projected population data from 1800 to 2045 with each column tagged with the year  
-    + HIST_PROJECT_PopulationTIDY csv containing historical and projected population data tidy data from 1800 to 2045 formatted with real and percent change between years  
-    + 2000SF1 csv
-    + 2000SF3
++ TIGERS2000, TIGERS2010, and TIGERS2020 shapefiles containing the geometry and geoid for each geography collected   
++ TIGERS2000, TIGERS2010, and TIGERS2020 csv files containing square miles and square acres of land area for each geography collected and calculated  
++ 2010Subject, 2020Subject csv files containing the median travel time to work for each geography collected  
++ 2017ACS1YR, 2018ACS1YR, 2019ACS1YR, 2021ACS1YR csv files containing the geographic mobility in the past year dataset for each geography collected and calculated  
++ HIST_PROJECT_PopulationSUFFIX csv containing historical and projected population data from 1800 to 2045 with each column tagged with the year  
++ HIST_PROJECT_PopulationTIDY csv containing historical and projected population data tidy data from 1800 to 2045 formatted with real and percent change between years  
++ 2000SF1 csv
++ 2000SF3
