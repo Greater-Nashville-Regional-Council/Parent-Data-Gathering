@@ -78,4 +78,6 @@ The following data is collected (**Data Bank**):
 + 2010 ACS5YR: 1,694 raw variables --> 565 data points  
 + 2020 PL: 25 raw variables --> 62 data points
 + 2020 ACS5YR: 2,371 raw variables --> 617 data points  
-+ HUDResidentialPermits_2021: residential permit data for single and multifamily for all counties, unincorporated counties, and places
++ HUDResidentialPermits_2021: residential permit data for single and multifamily for all counties, unincorporated counties, and places  
++ LAUS: 2 csv files containing the unemployment rate from the BLS's Local Area Unemployment Series one with the most recent annual avereage rate and one with monthly unadjusted rates from 2019 to the most recent (preliminary) month. Geographies include all counties in the region as well as incorporated places with population over 25,000  
++ 
